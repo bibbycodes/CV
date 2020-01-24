@@ -26,8 +26,7 @@ I am a full stack software developer and recent graduate of Makers Academy where
 # Projects
 
 | Title       | Description           | Technologies  |
-|--|--|--|
-
+|-------------|-----------------------|---------------|
 | [CashCow](https://cashcow2020.herokuapp.com/)| A place to monitor stocks and keep track of the value of your portfolio | React, Express, Node Postgres and Bootstrap. |
 | [SneakyChat](https://sneakychat2020.herokuapp.com/) | An encrypted chat client (WIP) | - React, Express, Node, Postgres, Websockets and Bootstrap. |
 | [The Anti Social Network](https://safe-caverns-35797.herokuapp.com/) | A facebook clone allowing one to create and like posts | Ruby on Rails and Bootstrap. |
