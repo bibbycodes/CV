@@ -21,6 +21,8 @@
 
 </div>
 
+## Background
+
 I am a full stack software developer and recent graduate of Makers Academy where I learned programming concepts such as MVC, OOP, Design Process, TDD and Agile Development. I am a self-led and self-motivated learner, having taught myself and become proficient in Python, Ruby and Javascript prior to attending the course. After enjoying a successful career as an artist for Sony Music and as a music producer for Sony/ATV as well as a short stint working as a property manager, I chose to seek new challenges by pursuing a career in tech which follows a life long interest in software development.
 
 ## Projects
@@ -69,11 +71,33 @@ Python, Javascript, Ruby, SQL, HTML, CSS, Selenium Automation, Logic, Reason, Ab
 #### Musician - Sony Music / Epic Records - 2015 - 2017
 
 * Signed as an artist at Epic Records, USA.
-* Supported Meghan Trainor on her US tour along with Charlie Puth.
+* Sold over 100,000 copies of our debut single.
 * Achieved in excess of 120,000,000 streams on online platforms.
+* Supported Meghan Trainor on her US tour along with Charlie Puth.
 * Collaborated with mainstream artists such as the Chain Smokers and Leona Lewis.
 
 #### Music producer - Sony/ATV - 2012 - 2017
 
-* Songwriter / Music Producer for Sony/ATV in London, UK working with and releasing songs with artists such as Cheryl Cole, Connor Maynard, * Cover Drive and Krept and Konan.
+* Songwriter / Music Producer for Sony/ATV in London, UK working with and releasing songs with artists such as Cheryl Cole, Connor Maynard,Cover Drive and Krept and Konan.
 * Coordinated with songwriters, artists and sound engineers to deliver songs from conception to radio, streaming and TV platforms.
+
+## Education
+
+#### Makers Academy - September 2019 - January 2020 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+#### SAE Institute - Audio Engineering.
+#### David Game College 2007 - 2008: 
+- A Level Maths, English and Physics.
+#### Concord College 2006 - 2007: 
+- AS Level Maths, English, Physics and English Literature.
+
+## Hobbies
+
+I enjoy table tennis, graphic design and I am an avid cryptocurrency investor in my spare time. I also still dabble in music production on occasion and enjoy creating animations with P5.js examples of which can be found below:
+
+[Fourier Seireis Illustrated](https://editor.p5js.org/robertgriff/sketches/r1LOJsKgE)
+[Fractal Trees](https://editor.p5js.org/robertgriff/sketches/ryI2pJOgE)
+[Blue Matrix ScreenSaver](https://editor.p5js.org/robertgriff/sketches/H1QVfa5x4)
