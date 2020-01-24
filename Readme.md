@@ -98,6 +98,7 @@ Python, Javascript, Ruby, SQL, HTML, CSS, Selenium Automation, Logic, Reason, Ab
 
 I enjoy table tennis, graphic design and I am an avid cryptocurrency investor in my spare time. I also still dabble in music production on occasion and enjoy creating animations with P5.js examples of which can be found below:
 
-**[Fourier Seireis Illustrated](https://editor.p5js.org/robertgriff/sketches/r1LOJsKgE)**
-**[Fractal Trees](https://editor.p5js.org/robertgriff/sketches/ryI2pJOgE)**
-**[Blue Matrix ScreenSaver](https://editor.p5js.org/robertgriff/sketches/H1QVfa5x4)**
+**[Fourier Seireis Illustrated](https://editor.p5js.org/robertgriff/sketches/r1LOJsKgE)** <br>
+**[Fractal Trees](https://editor.p5js.org/robertgriff/sketches/ryI2pJOgE)** <br>
+**[Blue Matrix ScreenSaver](https://editor.p5js.org/robertgriff/sketches/H1QVfa5x4)** <br>
+**[Bubble Draw](https://editor.p5js.org/robertgriff/sketches/rJ0gF_fgE)** <br>
