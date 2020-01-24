@@ -23,7 +23,7 @@
 
 I am a full stack software developer and recent graduate of Makers Academy where I learned programming concepts such as MVC, OOP, Design Process, TDD and Agile Development. I am a self-led and self-motivated learner, having taught myself and become proficient in Python, Ruby and Javascript prior to attending the course. After enjoying a successful career as an artist for Sony Music and as a music producer for Sony/ATV as well as a short stint working as a property manager, I chose to seek new challenges by pursuing a career in tech which follows a life long interest in software development.
 
-# Projects
+## Projects
 
 | Title       | Description           | Technologies  |
 |-------------|-----------------------|---------------|
@@ -46,5 +46,34 @@ From solving katas on Codewars and LeetCode to finding creative solutions to iss
 **Interpersonal Skills**
 Coming from a rich cultural and professional background, I have gained excellent interpersonal skills that allow me to work effectively with people from a diverse set of cultures and backgrounds. I have lived and worked in 3 countries outside of the UK which has led me to interacting and workiing side by side with people of multiple backgrounds and cultures, often with vast language barriers inbetween us.
 
-**Software**
-Python, Javascript, Ruby, Selenium Automation, Full Stack Development, Logic, Reason, Ableton, Cubase, Pro-tools, VSCode, and Figma.
+**Software and Technologies**
+Python, Javascript, Ruby, SQL, HTML, CSS, Selenium Automation, Logic, Reason, Ableton, Cubase, Pro-tools, VSCode, Figma, Postman and TablePlus.
+
+## Experience
+
+#### Part-time Remote Assistant to a Data Scientist working at Bird (LA) - July 2019 - Ongoing
+
+* Scraped premier league data from sofascore.com to make predictions about match outcomes.
+* Utilized the chrome inspector, selenium and python requests to reverse engineer and collect data from the platforms’ backend API.
+
+#### Software Developer - Afriex - June 2019 - September 2019
+
+* Contributed as part of a small agile team that handled the entire infrastructure (front and back end) using the MERN stack.
+* Monitored competitors sale prices using web scraping technologies such as selenium and scrapy to automate the collection of data.
+
+#### Property manager - TROBYJO - May 2017 - Apr 2019
+
+* Managed a property investment company based in Lagos, Nigeria.
+* Handled tenant disputes, renovations and finances for each of the eight properties.
+
+#### Musician - Sony Music / Epic Records - 2015 - 2017
+
+* Signed as an artist at Epic Records, USA.
+* Supported Meghan Trainor on her US tour along with Charlie Puth.
+* Achieved in excess of 120,000,000 streams on online platforms.
+* Collaborated with mainstream artists such as the Chain Smokers and Leona Lewis.
+
+#### Music producer - Sony/ATV - 2012 - 2017
+
+* Songwriter / Music Producer for Sony/ATV in London, UK working with and releasing songs with artists such as Cheryl Cole, Connor Maynard, * Cover Drive and Krept and Konan.
+* Coordinated with songwriters, artists and sound engineers to deliver songs from conception to radio, streaming and TV platforms.
