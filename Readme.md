@@ -101,7 +101,7 @@ Python, Javascript, Ruby, SQL, HTML, CSS, Selenium Automation, Logic, Reason, Ab
 
 ## Hobbies
 
-I enjoy table tennis, graphic design and I am an avid cryptocurrency investor in my spare time. I also still dabble in music production on occasion and enjoy creating animations with P5.js examples of which can be found below:
+I enjoy table tennis, web design, music production and have a keen interest in blockchain and emerging technologies. I also enjoy creating animations with P5.js, examples of which can be found below.
 
 **[Fourier Seireis Illustrated](https://editor.p5js.org/robertgriff/sketches/r1LOJsKgE)** <br>
 **[Fractal Trees](https://editor.p5js.org/robertgriff/sketches/ryI2pJOgE)** <br>
