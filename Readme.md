@@ -10,8 +10,6 @@
 <a href="https://sourcerer.io/bibbycodes"><img src="https://img.shields.io/badge/CSS-431%20commits-orange.svg" alt=""></a>
 </div>
 
-<br>
-
 <div align="center"><a href="https://www.linkedin.com/in/robert-griffith-10281619b/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="15" height="42" width="42"></a></div>
 
