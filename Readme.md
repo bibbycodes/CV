@@ -1,6 +1,8 @@
 <h1 align="center">Robert Griffith - Full Stack Software Developer</h1>
-<a align="center" href="https://www.linkedin.com/in/robert-griffith-10281619b/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="15" height="42" width="42"></a>
+
+<div align="center"><a href="https://www.linkedin.com/in/robert-griffith-10281619b/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="15" height="42" width="42"></a></div>
+
 <div align="center">
   
 <a href="https://sourcerer.io/bibbycodes"><img src="https://img.shields.io/badge/JavaScript-405%20commits-orange.svg" alt=""></a>
@@ -18,7 +20,7 @@
 [Skills ](#skills) |
 [Experience ](#experience) |
 [Education ](#education) |
-[Hobbies ](#hobbies)
+[Interests ](#interests)
 
 </div>
 
@@ -99,7 +101,7 @@ Python, Javascript, Ruby, SQL, HTML, CSS, Selenium Automation, Logic, Reason, Ab
 #### Concord College 2006 - 2007: 
 - AS Level Maths, English, Physics and English Literature.
 
-## Hobbies
+## Interests
 
 I enjoy table tennis, web design, music production and have a keen interest in blockchain and emerging technologies. I also enjoy creating animations with P5.js, examples of which can be found below.
 
