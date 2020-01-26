@@ -40,7 +40,7 @@ After enjoying a successful career as a musician for Sony Music and as a produce
 | [CashCow](https://cashcow2020.herokuapp.com/) <br> [Code](https://github.com/CodeKrakken/cashcow)| A place to monitor stocks and keep track of the value of your portfolio | 9 Days | React, Express, Node Postgres and Bootstrap. |
 | [SneakyChat](https://sneakychat2020.herokuapp.com/) <br> [Code](https://github.com/bibbycodes/sneakyChat) | An encrypted chat client (WIP) | 10 days | React, Express, Node, Postgres, Websockets and Bootstrap. |
 | Soccer Data Scraper <br> [Code](https://github.com/bibbycodes/soccer_scraper) | A set of functions for scraping premier league data  | A few Weeks | Python, Selenium, Requests |
-| [The Anti Social Network](https://safe-caverns-35797.herokuapp.com/) <br> Code](https://github.com/natyeo/acebook-antisocial-network) | A facebook clone allowing one to create and like posts | 2 Weeks | Ruby on Rails and Bootstrap. |
+| [The Anti Social Network](https://safe-caverns-35797.herokuapp.com/) <br> [Code](https://github.com/natyeo/acebook-antisocial-network) | A facebook clone allowing one to create and like posts | 2 Weeks | Ruby on Rails and Bootstrap. |
 | [Bitter](https://bitter2020.herokuapp.com/) <br> [Code](https://github.com/bibbycodes/chitter-challenge) | A twitter clone for bitter people | 2 days | Ruby, Sinatra and Bootstrap |
 | [Bookmark Manager](https://stark-crag-50573.herokuapp.com/bookmarks) <br> [Code](https://github.com/bibbycodes/bookmarks) | A facebook clone allowing one to create and like posts | 2 days | Ruby, Sinatra and Bootstrap. |
 
