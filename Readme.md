@@ -35,7 +35,7 @@ After enjoying a successful career as a musician for Sony Music and as a produce
 
 ## Projects
 
-| Project       | Description         | Development Timeframe | Technologies  | Link to Code |
+| Project       | Description         | Development Timeframe | Technologies  | Code |
 |---------------|---------------------|-----------------------|---------------|--------------|
 | [CashCow](https://cashcow2020.herokuapp.com/) | A place to monitor stocks and keep track of the value of your portfolio | 9 Days | React, Express, Node Postgres and Bootstrap. | [Github Repo](https://github.com/CodeKrakken/cashcow) |
 | [SneakyChat](https://sneakychat2020.herokuapp.com/) | An encrypted chat client (WIP) | 10 days | React, Express, Node, Postgres, Websockets and Bootstrap. | [Github Repo](https://github.com/bibbycodes/sneakyChat) |
