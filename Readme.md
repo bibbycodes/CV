@@ -41,7 +41,8 @@ After enjoying a successful career as a musician for Sony Music and as a produce
 | [SneakyChat](https://sneakychat2020.herokuapp.com/) | An encrypted chat client (WIP) | 10 days | - React, Express, Node, Postgres, Websockets and Bootstrap. |
 | [Soccer Data Scraper](https://github.com/bibbycodes/soccer_scraper) | A set of functions for scraping premier league data  | A few Weeks | Python |
 | [The Anti Social Network](https://safe-caverns-35797.herokuapp.com/) | A facebook clone allowing one to create and like posts | 2 Weeks | Ruby on Rails and Bootstrap. |
-| [Bookmark Manager](https://stark-crag-50573.herokuapp.com/bookmarks) | A facebook clone allowing one to create and like posts | One Weekend | Ruby on Rails and Bootstrap. |
+| [Bitter](https://bitter2020.herokuapp.com/) | A twitter clone for bitter people | 2 days | Ruby, Sinatra and Bootstrap |
+| [Bookmark Manager](https://stark-crag-50573.herokuapp.com/bookmarks) | A facebook clone allowing one to create and like posts | One Weekend | Ruby, Sinatra and Bootstrap. |
 
 ## Skills
 
