@@ -53,7 +53,7 @@ Coming from a creative background as a music producer, it was my job to direct t
 Having always had an interest in software development, I decided in late 2018 to take the plunge and start learning. I started watching youtube channels such as Traversy Media and The Coding train as well as took online courses on Codecademy and Coursera. Fast forward six months later and I found myself working for a tech startup based in Lagos, Nigeria. This was all accomplished through self-motivated, independent learning, a skill that I intend to carry through into future roles.
 
 **Problem Solving** <br>
-From solving katas on Codewars and LeetCode to finding creative solutions to issues I have faced while working on a product, I am an methodical problem solver and have formed a growing list of strategies to overcome problems I encounter. [A good example would be how I rotated IP addresses to proxy each HTTP request while scraping data from the web to avoid detection.](https://github.com/bibbycodes/soccer_scraper/blob/master/soccer.py)
+From solving katas on Codewars and LeetCode to finding creative solutions to issues I have faced while working on a product, I am an methodical problem solver and have formed a growing list of strategies to overcome problems I encounter.
 
 **Interpersonal Skills** <br>
 Coming from a rich cultural and professional background, I have gained excellent interpersonal skills that allow me to work effectively with people from a diverse set of cultures and backgrounds. I have lived and worked in 3 countries outside of the UK which has led me to interacting and workiing side by side with people of multiple backgrounds and cultures, often with vast language barriers between us.
