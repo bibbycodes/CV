@@ -65,30 +65,38 @@ Python, Javascript, Ruby, SQL, HTML, CSS, Selenium Automation, Logic, Reason, Ab
 
 #### Part-time Remote Assistant to a Data Scientist working at Bird (LA) - July 2019 - Ongoing
 
-* Scraped premier league data from sofascore.com to make predictions about match outcomes.
-* Utilized the chrome inspector, selenium and python requests to reverse engineer and collect data from the platforms’ backend API.
+* Scraped Premier league data using Selenium, Python and Requests to make predictions about match outcomes.
+* Deconstructed the website's backend API to collect data efficiently.
+* Delivered archived data across several endpoints dating back from 1997 to present.
 
 #### Software Developer - Afriex - June 2019 - September 2019
 
-* Contributed as part of a small agile team that handled the entire infrastructure (front and back end) using the MERN stack.
-* Monitored competitors sale prices using web scraping technologies such as selenium and scrapy to automate the collection of data.
+* Contributed as part of a small agile team that handled the entire infrastructure using Mongoose, Express, React and Node.
+* Constructed the Send / Receive Page allowing users to send and receive cryptocurrency.
+* Developed the Buy / Sell Page allowing users to buy and sell bitcoin.
+* Developed asynchronous Node scripts to monitor competitor activity using public API’s, Selenium and Websockets.
+* Developed a MongoDB database to store minute to minute data on competitors activity and prices.
 
 #### Property manager - TROBYJO - May 2017 - Apr 2019
 
 * Managed a property investment company based in Lagos, Nigeria.
-* Handled tenant disputes, renovations and finances for each of the eight properties.
+* Oversaw renovations and finances for each of the eight properties.
+* Negotiated tenant disputes.
+* Boosted profits 20% by cutting out middle-men, re-negotiating fees and acquiring new tenants.
 
 #### Musician - Sony Music / Epic Records - 2015 - 2017
 
 * Signed as an artist at Epic Records, USA.
 * Sold over 100,000 copies of our debut single.
-* Achieved in excess of 120,000,000 streams on online platforms.
+* Achieved in excess of 100 million streams on online platforms.
 * Supported Meghan Trainor on her US tour along with Charlie Puth.
+* Delivered songs to major streaming platforms from ideation to completion.
 * Collaborated with mainstream artists such as the Chain Smokers and Leona Lewis.
 
 #### Music producer - Sony/ATV - 2012 - 2017
 
-* Songwriter / Music Producer for Sony/ATV in London, UK working with and releasing songs with artists such as Cheryl Cole, Connor Maynard,Cover Drive and Krept and Konan.
+* Songwriter / Music Producer for Sony/ATV in London, UK working with and releasing songs with artists such as Cheryl Cole, Connor Maynard, Cover Drive and Krept and Konan.
+* Achieved in excess of 20 million streams on online platforms.
 * Coordinated with songwriters, artists and sound engineers to deliver songs from conception to radio, streaming and TV platforms.
 
 ## Education
@@ -106,7 +114,7 @@ Python, Javascript, Ruby, SQL, HTML, CSS, Selenium Automation, Logic, Reason, Ab
 
 ## Interests
 
-I enjoy table tennis, web design, music production and have a keen interest in blockchain and emerging technologies. I also enjoy creating animations with P5.js, examples of which can be found below.
+I enjoy playing table tennis, web design with Figma, music production and have a keen interest in blockchain and emerging technologies. I also enjoy creating animations with P5.js, examples of which can be found below.
 
 **[Blue Matrix ScreenSaver](https://editor.p5js.org/robertgriff/sketches/H1QVfa5x4)** <br>
 **[Fractal Trees](https://editor.p5js.org/robertgriff/sketches/ryI2pJOgE)** <br>
