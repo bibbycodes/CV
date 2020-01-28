@@ -1,4 +1,4 @@
-<h1 align="center">Robert Griffith - Full Stack Software Developer</h1>
+<h1 align="center">Robert Griffith - Software Developer</h1>
 
 <div align="center">
   
